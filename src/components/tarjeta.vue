@@ -3,7 +3,6 @@
     class="mx-auto"
     max-width="344"
   >
-  ss
   </v-card>
 </template>
 
